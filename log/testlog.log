@@ -1,0 +1,225 @@
+2019-09-27 13:32:43,717 - ebanking -INFO - uRL is opened
+2019-09-27 13:32:44,185 - ebanking -INFO - Entered username
+2019-09-27 13:32:44,260 - ebanking -INFO - Entered password
+2019-09-27 13:32:44,974 - ebanking -INFO - Login test passed
+2019-09-27 16:01:45,811 - ebanking -INFO - uRL is opened
+2019-09-27 16:01:45,938 - ebanking -INFO - Entered username
+2019-09-27 16:01:46,017 - ebanking -INFO - Entered password
+2019-09-27 16:01:46,812 - ebanking -INFO - Login test passed
+2019-09-27 16:31:01,643 - ebanking -INFO - uRL is opened
+2019-09-27 16:31:01,777 - ebanking -INFO - Entered username
+2019-09-27 16:31:01,854 - ebanking -INFO - Entered password
+2019-09-27 16:31:02,935 - ebanking -INFO - Login test passed
+2019-09-27 16:39:56,389 - ebanking -INFO - uRL is opened
+2019-09-27 16:39:56,541 - ebanking -INFO - Entered username
+2019-09-27 16:39:56,617 - ebanking -INFO - Entered password
+2019-09-27 16:39:57,985 - ebanking -INFO - Login test passed
+2019-09-27 20:35:29,283 - ebanking -INFO - uRL is opened
+2019-09-27 20:50:05,425 - ebanking -INFO - uRL is opened
+2019-09-27 20:51:50,375 - ebanking -INFO - uRL is opened
+2019-09-27 20:57:40,608 - ebanking -INFO - uRL is opened
+2019-09-27 20:58:41,208 - ebanking -INFO - uRL is opened
+2019-09-27 20:59:53,855 - ebanking -INFO - uRL is opened
+2019-09-27 21:03:05,730 - ebanking -INFO - uRL is opened
+2019-09-27 21:06:04,049 - ebanking -INFO - uRL is opened
+2019-09-27 21:06:04,512 - ebanking -INFO - Entered username
+2019-09-27 21:06:04,577 - ebanking -INFO - Entered password
+2019-09-27 21:06:05,285 - ebanking -INFO - Login test passed
+2019-09-27 21:08:18,898 - ebanking -INFO - uRL is opened
+2019-09-27 21:08:19,048 - ebanking -INFO - Entered username
+2019-09-27 21:08:19,177 - ebanking -INFO - Entered password
+2019-09-27 21:08:20,149 - ebanking -INFO - Login test passed
+2019-09-28 10:39:49,260 - ebanking -INFO - uRL is opened
+2019-09-28 10:39:49,331 - ebanking -INFO - Entered username
+2019-09-28 10:39:49,371 - ebanking -INFO - Entered password
+2019-09-28 10:39:50,694 - ebanking -INFO - Login test passed
+2019-09-28 10:54:44,884 - ebanking -INFO - uRL is opened
+2019-09-28 10:54:44,970 - ebanking -INFO - Entered username
+2019-09-28 10:54:45,019 - ebanking -INFO - Entered password
+2019-09-28 15:06:00,895 - ebanking -INFO - uRL is opened
+2019-09-28 15:06:00,973 - ebanking -INFO - Entered username
+2019-09-28 15:06:01,004 - ebanking -INFO - Entered password
+2019-09-28 15:32:06,476 - ebanking -INFO - username provided
+2019-09-28 15:32:06,513 - ebanking -INFO - password provided
+2019-09-28 15:32:07,634 - ebanking -INFO - button clicked
+2019-09-28 15:32:14,367 - ebanking -INFO - username provided
+2019-09-28 15:32:14,492 - ebanking -INFO - password provided
+2019-09-28 15:32:14,733 - ebanking -INFO - button clicked
+2019-09-28 15:32:18,123 - ebanking -INFO - username provided
+2019-09-28 15:32:18,288 - ebanking -INFO - password provided
+2019-09-28 15:32:18,865 - ebanking -INFO - button clicked
+2019-09-28 15:32:25,551 - ebanking -INFO - username provided
+2019-09-28 15:32:25,647 - ebanking -INFO - password provided
+2019-09-28 15:32:25,898 - ebanking -INFO - button clicked
+2019-09-28 15:32:29,388 - ebanking -INFO - username provided
+2019-09-28 15:32:29,476 - ebanking -INFO - password provided
+2019-09-28 15:32:30,072 - ebanking -INFO - button clicked
+2019-09-28 19:41:47,672 - ebanking -INFO - username entered
+2019-09-28 19:41:47,709 - ebanking -INFO - password entered
+2019-09-28 19:43:54,353 - ebanking -INFO - username entered
+2019-09-28 19:43:54,438 - ebanking -INFO - password entered
+2019-09-28 19:45:44,732 - ebanking -INFO - username entered
+2019-09-28 19:45:44,769 - ebanking -INFO - password entered
+2019-09-28 19:48:16,337 - ebanking -INFO - username entered
+2019-09-28 19:48:16,375 - ebanking -INFO - password entered
+2019-09-28 19:48:19,966 - ebanking -INFO - link click
+2019-09-28 19:49:36,388 - ebanking -INFO - username entered
+2019-09-28 19:49:36,429 - ebanking -INFO - password entered
+2019-09-28 19:49:40,149 - ebanking -INFO - link click
+2019-09-28 19:54:07,319 - ebanking -INFO - username entered
+2019-09-28 19:54:07,395 - ebanking -INFO - password entered
+2019-09-28 19:54:10,878 - ebanking -INFO - link click
+2019-09-28 19:58:12,878 - ebanking -INFO - username entered
+2019-09-28 19:58:12,962 - ebanking -INFO - password entered
+2019-09-28 19:58:16,686 - ebanking -INFO - link click
+2019-09-28 20:06:53,676 - ebanking -INFO - username entered
+2019-09-28 20:06:53,764 - ebanking -INFO - password entered
+2019-09-28 20:06:57,710 - ebanking -INFO - link click
+2019-09-28 21:17:00,867 - ebanking -INFO - username entered
+2019-09-28 21:17:00,948 - ebanking -INFO - password entered
+2019-09-28 21:17:04,586 - ebanking -INFO - link click
+2019-09-28 21:19:32,719 - ebanking -INFO - username entered
+2019-09-28 21:19:32,790 - ebanking -INFO - password entered
+2019-09-28 21:19:39,366 - ebanking -INFO - link click
+2019-09-28 21:20:52,270 - ebanking -INFO - username entered
+2019-09-28 21:20:52,361 - ebanking -INFO - password entered
+2019-09-28 21:20:59,457 - ebanking -INFO - link click
+2019-09-28 21:22:20,184 - ebanking -INFO - username entered
+2019-09-28 21:22:20,266 - ebanking -INFO - password entered
+2019-09-28 21:22:26,788 - ebanking -INFO - link click
+2019-09-28 21:23:00,448 - ebanking -INFO - username entered
+2019-09-28 21:23:00,523 - ebanking -INFO - password entered
+2019-09-28 21:23:07,044 - ebanking -INFO - link click
+2019-09-28 21:28:37,134 - ebanking -INFO - username entered
+2019-09-28 21:28:37,208 - ebanking -INFO - password entered
+2019-09-28 21:28:43,946 - ebanking -INFO - link click
+2019-09-28 21:40:16,454 - ebanking -INFO - username entered
+2019-09-28 21:40:16,534 - ebanking -INFO - password entered
+2019-09-28 21:40:23,859 - ebanking -INFO - link click
+2019-09-28 21:56:49,151 - ebanking -INFO - username entered
+2019-09-28 21:56:49,232 - ebanking -INFO - password entered
+2019-09-28 21:58:57,857 - ebanking -INFO - username entered
+2019-09-28 21:58:57,943 - ebanking -INFO - password entered
+2019-09-28 22:01:33,659 - ebanking -INFO - username entered
+2019-09-28 22:01:33,735 - ebanking -INFO - password entered
+2019-09-28 22:03:12,998 - ebanking -INFO - username entered
+2019-09-28 22:03:13,076 - ebanking -INFO - password entered
+2019-09-28 22:03:17,066 - ebanking -INFO - link click
+2019-09-28 22:03:17,067 - ebanking -INFO - Providing customer details
+2019-09-28 22:03:21,101 - ebanking -INFO - Validation started
+2019-09-28 22:05:45,676 - ebanking -INFO - username entered
+2019-09-28 22:05:45,753 - ebanking -INFO - password entered
+2019-09-28 22:05:50,329 - ebanking -INFO - link click
+2019-09-28 22:05:50,330 - ebanking -INFO - Providing customer details
+2019-09-28 22:05:54,331 - ebanking -INFO - Validation started
+2019-09-28 22:10:41,134 - ebanking -INFO - username entered
+2019-09-28 22:10:41,219 - ebanking -INFO - password entered
+2019-09-28 22:10:45,565 - ebanking -INFO - link click
+2019-09-28 22:10:45,566 - ebanking -INFO - Providing customer details
+2019-09-28 22:10:49,549 - ebanking -INFO - Validation started
+2019-09-28 22:11:34,553 - ebanking -INFO - username entered
+2019-09-28 22:11:34,637 - ebanking -INFO - password entered
+2019-09-28 22:11:38,736 - ebanking -INFO - link click
+2019-09-28 22:11:38,736 - ebanking -INFO - Providing customer details
+2019-09-28 22:11:43,459 - ebanking -INFO - Validation started
+2019-09-28 22:11:43,484 - ebanking -INFO - test case passed
+2019-09-28 22:15:29,924 - ebanking -INFO - username entered
+2019-09-28 22:15:30,005 - ebanking -INFO - password entered
+2019-09-28 22:15:31,187 - ebanking -INFO - link click
+2019-09-28 22:15:31,187 - ebanking -INFO - Providing customer details
+2019-09-28 22:15:35,304 - ebanking -INFO - Validation started
+2019-09-28 23:28:39,753 - ebanking -INFO - uRL is opened
+2019-09-28 23:28:40,199 - ebanking -INFO - Entered username
+2019-09-28 23:28:40,274 - ebanking -INFO - Entered password
+2019-09-28 23:28:40,782 - ebanking -INFO - Login test passed
+2019-09-28 23:28:45,819 - ebanking -INFO - username provided
+2019-09-28 23:28:45,890 - ebanking -INFO - password provided
+2019-09-28 23:28:46,482 - ebanking -INFO - button clicked
+2019-09-28 23:28:53,477 - ebanking -INFO - username provided
+2019-09-28 23:28:53,566 - ebanking -INFO - password provided
+2019-09-28 23:28:53,783 - ebanking -INFO - button clicked
+2019-09-28 23:28:57,383 - ebanking -INFO - username provided
+2019-09-28 23:28:57,445 - ebanking -INFO - password provided
+2019-09-28 23:28:58,034 - ebanking -INFO - button clicked
+2019-09-28 23:29:05,019 - ebanking -INFO - username provided
+2019-09-28 23:29:05,142 - ebanking -INFO - password provided
+2019-09-28 23:29:05,320 - ebanking -INFO - button clicked
+2019-09-28 23:29:08,888 - ebanking -INFO - username provided
+2019-09-28 23:29:08,958 - ebanking -INFO - password provided
+2019-09-28 23:29:09,476 - ebanking -INFO - button clicked
+2019-09-28 23:29:21,356 - ebanking -INFO - username entered
+2019-09-28 23:29:21,440 - ebanking -INFO - password entered
+2019-09-28 23:29:22,538 - ebanking -INFO - link click
+2019-09-28 23:29:22,538 - ebanking -INFO - Providing customer details
+2019-09-28 23:29:26,956 - ebanking -INFO - Validation started
+2019-09-28 23:29:26,968 - ebanking -INFO - test case passed
+2019-09-29 14:30:25,991 - ebanking -INFO - uRL is opened
+2019-09-29 14:30:26,109 - ebanking -INFO - Entered username
+2019-09-29 14:30:26,189 - ebanking -INFO - Entered password
+2019-09-29 14:30:26,771 - ebanking -INFO - Login test passed
+2019-09-29 14:30:32,521 - ebanking -INFO - username entered
+2019-09-29 14:30:32,609 - ebanking -INFO - password entered
+2019-09-29 14:30:33,899 - ebanking -INFO - link click
+2019-09-29 14:30:33,900 - ebanking -INFO - Providing customer details
+2019-09-29 14:30:38,576 - ebanking -INFO - Validation started
+2019-09-29 14:30:38,587 - ebanking -INFO - test case passed
+2019-09-29 15:31:03,241 - ebanking -INFO - uRL is opened
+2019-09-29 15:31:06,325 - ebanking -INFO - Entered username
+2019-09-29 15:31:06,437 - ebanking -INFO - Entered password
+2019-09-29 15:31:07,557 - ebanking -INFO - Login test passed
+2019-09-29 15:31:20,090 - ebanking -INFO - username entered
+2019-09-29 15:31:20,172 - ebanking -INFO - password entered
+2019-09-29 15:31:21,569 - ebanking -INFO - link click
+2019-09-29 15:31:21,570 - ebanking -INFO - Providing customer details
+2019-09-29 15:31:26,200 - ebanking -INFO - Validation started
+2019-09-29 15:31:26,233 - ebanking -INFO - test case passed
+2019-09-29 20:33:22,582 - ebanking -INFO - uRL is opened
+2019-09-29 20:33:24,266 - ebanking -INFO - Entered username
+2019-09-29 20:33:24,352 - ebanking -INFO - Entered password
+2019-09-29 20:33:24,976 - ebanking -INFO - Login test passed
+2019-09-29 20:33:32,514 - ebanking -INFO - username entered
+2019-09-29 20:33:32,606 - ebanking -INFO - password entered
+2019-09-29 20:33:34,057 - ebanking -INFO - link click
+2019-09-29 20:33:34,057 - ebanking -INFO - Providing customer details
+2019-09-29 20:33:38,595 - ebanking -INFO - Validation started
+2019-09-29 20:33:38,606 - ebanking -INFO - test case passed
+2019-09-30 11:28:31,296 - ebanking -INFO - uRL is opened
+2019-09-30 11:28:31,845 - ebanking -INFO - Entered username
+2019-09-30 11:28:31,926 - ebanking -INFO - Entered password
+2019-09-30 11:28:34,382 - ebanking -INFO - Login test passed
+2019-09-30 11:28:41,215 - ebanking -INFO - username entered
+2019-09-30 11:28:41,286 - ebanking -INFO - password entered
+2019-09-30 11:28:43,438 - ebanking -INFO - link click
+2019-09-30 11:28:43,438 - ebanking -INFO - Providing customer details
+2019-09-30 11:28:47,939 - ebanking -INFO - Validation started
+2019-09-30 11:28:47,952 - ebanking -INFO - test case passed
+2019-09-30 11:29:00,981 - ebanking -INFO - uRL is opened
+2019-09-30 11:29:01,395 - ebanking -INFO - Entered username
+2019-09-30 11:29:01,466 - ebanking -INFO - Entered password
+2019-09-30 11:29:02,891 - ebanking -INFO - Login test passed
+2019-09-30 11:29:10,778 - ebanking -INFO - username entered
+2019-09-30 11:29:10,857 - ebanking -INFO - password entered
+2019-09-30 11:29:12,740 - ebanking -INFO - link click
+2019-09-30 11:29:12,740 - ebanking -INFO - Providing customer details
+2019-09-30 11:29:17,160 - ebanking -INFO - Validation started
+2019-09-30 11:29:17,172 - ebanking -INFO - test case passed
+2019-09-30 13:16:37,535 - ebanking -INFO - uRL is opened
+2019-09-30 13:16:38,672 - ebanking -INFO - Entered username
+2019-09-30 13:16:38,748 - ebanking -INFO - Entered password
+2019-09-30 13:16:39,624 - ebanking -INFO - Login test passed
+2019-09-30 13:16:46,864 - ebanking -INFO - username entered
+2019-09-30 13:16:46,936 - ebanking -INFO - password entered
+2019-09-30 13:16:48,166 - ebanking -INFO - link click
+2019-09-30 13:16:48,167 - ebanking -INFO - Providing customer details
+2019-09-30 13:16:52,625 - ebanking -INFO - Validation started
+2019-09-30 13:16:52,636 - ebanking -INFO - test case passed
+2019-09-30 13:17:50,742 - ebanking -INFO - uRL is opened
+2019-09-30 13:17:51,938 - ebanking -INFO - Entered username
+2019-09-30 13:17:52,004 - ebanking -INFO - Entered password
+2019-09-30 13:17:52,878 - ebanking -INFO - Login test passed
+2019-09-30 13:18:01,374 - ebanking -INFO - username entered
+2019-09-30 13:18:01,441 - ebanking -INFO - password entered
+2019-09-30 13:18:02,367 - ebanking -INFO - link click
+2019-09-30 13:18:02,368 - ebanking -INFO - Providing customer details
+2019-09-30 13:18:06,803 - ebanking -INFO - Validation started
+2019-09-30 13:18:06,853 - ebanking -INFO - test case passed
